@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<tweetapp>
+<User highest_id="2">  
+    <record id="1">
+        <username>user</username>
+        <password>user</password>
+        <isSoftDeleted>false</isSoftDeleted>
+    </record>
+
+</User>
+
+<Authenticate>
+	
+		<Ck>Enter here</Ck>
+		<Cs>Enter here</Cs>
+		<At>Enter here</At>
+		<Ats>Enter here</Ats>
+
+
+</Authenticate>
+
+</tweetapp>
